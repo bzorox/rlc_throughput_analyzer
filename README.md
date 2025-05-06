@@ -1,8 +1,6 @@
 # rlc_throughput_analyzer
 Решение задачи 5 варианта
-Вот оформленный текст в формате `README.md`:
 
-```markdown
 # Анализатор Пропускной Способности Логов RLC
 
 ## Обзор
@@ -73,5 +71,4 @@ pip install pandas
 UE ID      UL Throughput kb/s DL Throughput kb/s
 ----------------------------------------
 1          10.00              20.00
-```
 ```
