@@ -1,4 +1,0 @@
-[RLC][UL][UE_ID=1][RB_ID=1][SN=100] TX AMD PDU (Size=150 bytes) @ T=0.0s
-[RLC][DL][UE_ID=1][RB_ID=1][SN=78] RX AMD PDU (Size=200 bytes) @ T=0.1s
-[RLC][UL][UE_ID=1][RB_ID=1][SN=101] TX AMD PDU (Size=100 bytes) @ T=0.2s
-[RLC][DL][UE_ID=1][RB_ID=1][SN=79] RX AMD PDU (Size=300 bytes) @ T=0.3s
